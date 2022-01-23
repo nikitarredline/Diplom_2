@@ -1,0 +1,53 @@
+{
+  "uid" : "ff3e9a3f5c1547c3",
+  "name" : "userWithoutTokenTest",
+  "historyId" : "UserTest:UserTest#userWithoutTokenTest",
+  "time" : {
+    "duration" : 217
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ed328cf2bee3792",
+      "name" : "System out",
+      "source" : "8ed328cf2bee3792.txt",
+      "type" : "text/plain",
+      "size" : 256
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "UserTest"
+  }, {
+    "name" : "testClass",
+    "value" : "UserTest"
+  }, {
+    "name" : "package",
+    "value" : "UserTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff3e9a3f5c1547c3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "14c6cbb3e3119e4e",
+  "name" : "loginSuccessTest",
+  "historyId" : "LoginTest:LoginTest#loginSuccessTest",
+  "time" : {
+    "duration" : 394
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "69bd12ca0238206d",
+      "name" : "System out",
+      "source" : "69bd12ca0238206d.txt",
+      "type" : "text/plain",
+      "size" : 257
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "package",
+    "value" : "LoginTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14c6cbb3e3119e4e.json",
+  "parameterValues" : [ ]
+}

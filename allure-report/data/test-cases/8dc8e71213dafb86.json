@@ -1,0 +1,53 @@
+{
+  "uid" : "8dc8e71213dafb86",
+  "name" : "orderGetWithTokenTest",
+  "historyId" : "OrdersGetTest:OrdersGetTest#orderGetWithTokenTest",
+  "time" : {
+    "duration" : 644
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7697d13525f8fe2a",
+      "name" : "System out",
+      "source" : "7697d13525f8fe2a.txt",
+      "type" : "text/plain",
+      "size" : 261
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "OrdersGetTest"
+  }, {
+    "name" : "testClass",
+    "value" : "OrdersGetTest"
+  }, {
+    "name" : "package",
+    "value" : "OrdersGetTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8dc8e71213dafb86.json",
+  "parameterValues" : [ ]
+}
