@@ -1,0 +1,6 @@
+AuthHelper.class
+LoginHelper.class
+OrdersPostHelper.class
+RegisterHelper.class
+UserHelper.class
+OrdersGetHelper.class

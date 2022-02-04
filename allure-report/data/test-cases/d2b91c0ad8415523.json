@@ -1,0 +1,53 @@
+{
+  "uid" : "d2b91c0ad8415523",
+  "name" : "loginNotCorrectLoginPasswordTest",
+  "historyId" : "LoginTest:LoginTest#loginNotCorrectLoginPasswordTest",
+  "time" : {
+    "duration" : 2764
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "69bd12ca0238206d",
+      "name" : "System out",
+      "source" : "69bd12ca0238206d.txt",
+      "type" : "text/plain",
+      "size" : 257
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "package",
+    "value" : "LoginTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2b91c0ad8415523.json",
+  "parameterValues" : [ ]
+}

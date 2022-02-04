@@ -1,0 +1,53 @@
+{
+  "uid" : "e9fdbd858b10956c",
+  "name" : "registerNewUserTest",
+  "historyId" : "RegisterTest:RegisterTest#registerNewUserTest",
+  "time" : {
+    "duration" : 615
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b8af35d4fd21a646",
+      "name" : "System out",
+      "source" : "b8af35d4fd21a646.txt",
+      "type" : "text/plain",
+      "size" : 260
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "RegisterTest"
+  }, {
+    "name" : "testClass",
+    "value" : "RegisterTest"
+  }, {
+    "name" : "package",
+    "value" : "RegisterTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9fdbd858b10956c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "660f3039a2a138ea",
+  "name" : "orderPostWithTokenTest",
+  "historyId" : "OrdersPostTest:OrdersPostTest#orderPostWithTokenTest",
+  "time" : {
+    "duration" : 773
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7b77703720f17578",
+      "name" : "System out",
+      "source" : "7b77703720f17578.txt",
+      "type" : "text/plain",
+      "size" : 262
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "OrdersPostTest"
+  }, {
+    "name" : "testClass",
+    "value" : "OrdersPostTest"
+  }, {
+    "name" : "package",
+    "value" : "OrdersPostTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "660f3039a2a138ea.json",
+  "parameterValues" : [ ]
+}

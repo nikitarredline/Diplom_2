@@ -1,0 +1,53 @@
+{
+  "uid" : "af32024f17c4958f",
+  "name" : "orderPostWithoutIngredientsTest",
+  "historyId" : "OrdersPostTest:OrdersPostTest#orderPostWithoutIngredientsTest",
+  "time" : {
+    "duration" : 647
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7b77703720f17578",
+      "name" : "System out",
+      "source" : "7b77703720f17578.txt",
+      "type" : "text/plain",
+      "size" : 262
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "OrdersPostTest"
+  }, {
+    "name" : "testClass",
+    "value" : "OrdersPostTest"
+  }, {
+    "name" : "package",
+    "value" : "OrdersPostTest"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af32024f17c4958f.json",
+  "parameterValues" : [ ]
+}
